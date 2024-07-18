@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome to Amitesh Design and Bu
+      label: Welcome to Amitesh Design and Build
       color: text-primary
       type: Badge
     elementId: ''
