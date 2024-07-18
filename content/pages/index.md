@@ -28,7 +28,7 @@ sections:
         url: ''
         showIcon: true
         icon: ''
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
         type: Link
