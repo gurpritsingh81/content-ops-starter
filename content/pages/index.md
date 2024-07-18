@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: tO CON
         altText: ''
         url: 'https://in.linkedin.com/in/amitesh-anand-402363168'
         showIcon: true
