@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '/https://in.linkedin.com/in/amitesh-anand-402363168'
         showIcon: false
         icon: chevronBigLeft
         iconPosition: right
