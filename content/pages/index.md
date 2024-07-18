@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: tO CON
+      - label: To connect on LinkedIn
         altText: ''
         url: 'https://in.linkedin.com/in/amitesh-anand-402363168'
         showIcon: true
