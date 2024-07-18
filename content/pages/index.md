@@ -17,7 +17,7 @@ sections:
       - type: Link
         label: LinkedIn
         altText: LinkedIn
-        url: '/https://in.linkedin.com/in/amitesh-anand-402363168'
+        url: 'https://in.linkedin.com/in/amitesh-anand-402363168'
         showIcon: true
         icon: linkedin
         iconPosition: left
