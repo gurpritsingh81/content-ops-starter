@@ -26,7 +26,7 @@ sections:
       - label: To connect on LinkedIn
         altText: ''
         url: ''
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
