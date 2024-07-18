@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://in.linkedin.com/in/amitesh-anand-402363168'
         showIcon: true
         icon: arrowRight
         iconPosition: right
