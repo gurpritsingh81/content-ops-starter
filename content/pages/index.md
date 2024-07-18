@@ -28,8 +28,8 @@ sections:
         url: ''
         showIcon: true
         icon: ''
-        iconPosition: left
-        style: primary
+        iconPosition: right
+        style: secondary
         elementId: ''
         type: Link
     media:
