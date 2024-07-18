@@ -14,15 +14,6 @@ sections:
 
 
     actions:
-      - label: Get started
-        altText: ''
-        url: '/https://in.linkedin.com/in/amitesh-anand-402363168'
-        showIcon: false
-        icon: chevronBigLeft
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Link
         label: LinkedIn
         altText: LinkedIn
