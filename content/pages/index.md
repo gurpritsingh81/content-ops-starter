@@ -23,6 +23,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: '/https://in.linkedin.com/in/amitesh-anand-402363168'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
