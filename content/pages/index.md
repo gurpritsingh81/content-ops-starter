@@ -23,15 +23,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: To connect on LinkedIn
-        altText: ''
-        url: ''
-        showIcon: true
-        icon: ''
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
