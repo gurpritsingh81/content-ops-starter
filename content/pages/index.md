@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: To connect on LinkedIn
         altText: ''
-        url: 'https://in.linkedin.com/in/amitesh-anand-402363168'
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
